@@ -37,7 +37,7 @@ Hobbies? *[REDACTED]*
 
 all my socials have the same username — **jayxdcode**. if you cant find me, that means i dont have an account on that platform.
 
-| [GitHub](https://github.com/jayxdcode) | [Twitter/X](https://x.com/jayxdcode) | [Instagram](https://instagram.com/jayxdcode) | [AMO](https://addons.mozilla.org/en-US/firefox/user/18805493/) | [Reddit](https://reddit.com/u/jayxdcode)
+| [GitHub](https://github.com/jayxdcode) | [Twitter/X](https://x.com/jayxdcode) | [Instagram](https://instagram.com/jayxdcode) | [AMO](https://addons.mozilla.org/en-US/firefox/user/18805493/) |
 
 ---
 
