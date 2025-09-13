@@ -1,16 +1,46 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/118164738?v=4" alt="jayxdcode's avatar" width="120" style="border-radius:50%;">
+</p>
 
-<!--
-**jayxdcode/jayxdcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm jayxdcode 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b> Highschool Student/Casual Developer</b><br>
+  <i>Coding when I'm bored... or when a 2 AM bug fix idea strikes.</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+
+- Python (Data Science and Web Scraping projects)
+- Web Development (i like js, i hate css.)
+- Java (i only do simple terminal-based projects)
+
+---
+
+### 🌟 Featured Projects
+
+- [swpfl](https://github.com/jayxdcode/swpfl)
+- [src-backend](https://github.com/jayxdcode/src-backend)
+
+---
+
+### 😅 About
+
+I don't really have a schedule. I just code either when I'm bored or when the solution for a bug hits me at 2 am.  
+Hobbies? *[REDACTED]*
+
+---
+
+### 🌐 Find Me Online
+
+all my socials have the same username — **jayxdcode**. if you cant find me, that means i dont have an account on that platform.
+
+| [GitHub](https://github.com/jayxdcode) | [Twitter/X](https://x.com/jayxdcode) | [Instagram](https://instagram.com/jayxdcode) | [AMO](https://addons.mozilla.org/jayxdcode) |
+
+---
+
+<p align="center">
+  <i>"Sometimes the best bug fixes come at 2 AM."</i>
+</p>
