@@ -26,6 +26,11 @@
 
 ---
 
+### 😬 GitHub Stats
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayxdcode)](https://github.com/jayxdcode)
+
+[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=jayxdcode&theme=dark)](https://git.io/streak-stats)
+
 ### 😅 About
 
 I don't really have a schedule. I just code either when I'm bored or when the solution for a bug hits me at 2 am.  
@@ -42,5 +47,5 @@ all my socials have the same username — **jayxdcode**. if you cant find me, th
 ---
 
 <p align="center">
-  <i>"Sometimes the best bug fixes come at 2 AM."</i>
+  <i>Sometimes the best bug fixes come at 2 AM.</i>
 </p>
