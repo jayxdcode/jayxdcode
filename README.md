@@ -29,7 +29,7 @@
 ### 😬 GitHub Stats
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayxdcode)](https://github.com/jayxdcode)
 
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=jayxdcode)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jayxdcode)](https://git.io/streak-stats)
 
 ### 😅 About
 
