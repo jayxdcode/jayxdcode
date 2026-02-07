@@ -41,8 +41,8 @@ Hobbies? *[REDACTED]*
 
 ### 🌐 Find Me Online
 
-all my socials have the same username — **jayxdcode**. if you cant find me, that means i dont have an account on that platform.
-
+if you cant find me, that means i dont have an account on that platform.
+</br></br>
 | [GitHub](https://github.com/jayxdcode) | [Twitter/X](https://x.com/jayxdcode) | [Instagram](https://instagram.com/jayxdcode) | [AMO](https://addons.mozilla.org/en-US/firefox/user/18805493/) |
 
 ---
